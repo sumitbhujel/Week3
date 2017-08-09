@@ -1,5 +1,6 @@
 THE RAINBOW
 
+<paragraph 1>
 red
 blue
 yellow
@@ -7,4 +8,10 @@ green
 orange
 blah blah blah
 
+<paragraph 2>
 this is the poem
+
+
+<paragraph 3>
+agcabkc
+ iuhcoxascxsa
